@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Evan**, an aspiring developer building skills, projects, and ideas one step at a time.
+I’m **Evan**, a current student at Columbia University. I am also an aspiring developer building skills, projects, and ideas one step at a time.
 
 I enjoy learning how technology works and turning what I learn into projects I can be proud of. Outside of coding, I’m a clarinetist who enjoys the gym and getting outside for a hike.
 
